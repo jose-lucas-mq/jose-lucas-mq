@@ -10,7 +10,6 @@ profile:
 
 contacts:
   email: jose2002lucas@gmail.com
-  phone: "+55 11 95472-7407"
   linkedin: https://www.linkedin.com/in/jose-lucas-marinho-queiroz
   site: https://joselucas.dev.br
 
