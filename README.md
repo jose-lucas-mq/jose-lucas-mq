@@ -14,8 +14,8 @@ contacts:
   site: https://www.joselucas.dev.br
 
 languages:
-  - Portuguese: Native 🇧🇷
-  - English: Professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+  - portuguese: Native 🇧🇷
+  - english: Professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 skills:
   devops: ⚙️
