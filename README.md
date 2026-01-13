@@ -1,6 +1,6 @@
 ```yaml
 profile:
-  name: José Lucas
+  name: José Lucas Marinho Queiroz
   title: Cloud & DevOps Engineer
   location: São Paulo, SP, Brazil
   summary: |
@@ -11,50 +11,34 @@ profile:
 contacts:
   email: jose2002lucas@gmail.com
   linkedin: https://www.linkedin.com/in/jose-lucas-marinho-queiroz
-  site: https://joselucas.dev.br
+  site: https://www.joselucas.dev.br
 
 languages:
   - Portuguese: Native 
   - English: Professional
 
 skills:
-  cloud:
-    - AWS
-    - EC2
-    - S3
-    - VPC
-    - IAM
   devops:
     - Kubernetes
-    - EKS
-    - Helm
     - CI/CD
     - GitHub Actions
-    - Rundeck
-    - SRE
     - FinOps
-    - Infrastructure as Code
-  iac:
+    - AWS
+    - EKS
     - Terraform
-    - Pulumi
   observability:
     - Grafana
     - Prometheus
   automation:
     - Python
     - Bash
-    - Linux
-  methodologies:
-    - Agile
-    - Scrum
-    - Kanban
+    - GoLang
   soft_skills:
     - Problem-solving
     - Teamwork
     - Communication
     - Ownership
     - Continuous learning
-    - Mentoring
     - Reliability mindset
     - Automation culture
 
@@ -77,14 +61,6 @@ experiences:
       - Automated infrastructure provisioning with Terraform
       - Implemented monitoring and reliability practices
       - Produced technical documentation on AI, ML, and Quantum Computing
-    keywords:
-      - AWS
-      - Terraform
-      - CI/CD
-      - Cloud Automation
-      - SRE
-      - Reliability
-      - Artificial Intelligence
 
   - company: Nubank
     role: Cloud Engineer | Platform Engineer | DevOps
@@ -98,16 +74,6 @@ experiences:
     results:
       - Improved delivery performance and system stability
       - Reduced manual tasks by approximately 50%
-    keywords:
-      - AWS
-      - Pulumi
-      - Terraform
-      - Python
-      - Grafana
-      - Automation
-      - Continuous Delivery
-      - Cost Optimization
-      - DevOps
 
   - company: Easynvest by Nubank
     role: Intern | Cloud Engineer | DevOps
@@ -118,15 +84,6 @@ experiences:
       - Supported AWS and Kubernetes environments
       - Automated workflows using Python and Bash
       - Participated in Agile ceremonies
-    keywords:
-      - AWS
-      - Kubernetes
-      - Grafana
-      - Prometheus
-      - Python
-      - Bash
-      - CI/CD
-      - Automation
 
 education:
   - institution: São Paulo Tech School (SPTech)
