@@ -1,7 +1,7 @@
 ```yaml
 profile:
   name: José Lucas Marinho Queiroz
-  title: Cloud & DevOps Engineer
+  title: Cloud & DevOps Engineer ☁️⚙️
   location: São Paulo, SP, Brazil
   summary: |
     Cloud and DevOps Engineer with experience since 2022 working with cloud infrastructure,
@@ -14,11 +14,10 @@ contacts:
   site: https://www.joselucas.dev.br
 
 languages:
-  - Portuguese: Native 
-  - English: Professional
-
+  - Portuguese: Native 🇧🇷
+  - English: Professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 skills:
-  devops:
+  devops: ⚙️
     - Kubernetes
     - CI/CD
     - GitHub Actions
@@ -26,14 +25,14 @@ skills:
     - AWS
     - EKS
     - Terraform
-  observability:
+  observability: 🔍
     - Grafana
     - Prometheus
-  automation:
+  automation: 🤖
     - Python
     - Bash
     - GoLang
-  soft_skills:
+  soft_skills: 🧠
     - Problem-solving
     - Teamwork
     - Communication
@@ -44,7 +43,7 @@ skills:
 
 experiences:
   - company: SOC - Software de Saúde e Segurança do Trabalho
-    role: DevOps Engineer
+    role: DevOps Engineer ⚙️
     location: Santos, SP, Brazil
     start_date: 2026-01
     end_date: Present
@@ -53,7 +52,7 @@ experiences:
       - Automation and scalability practices
 
   - company: Aditi LATAM
-    role: Cloud Engineer | DevOps
+    role: Cloud Engineer | DevOps ☁️
     start_date: 2025-05
     end_date: 2025-11
     responsibilities:
@@ -63,7 +62,7 @@ experiences:
       - Produced technical documentation on AI, ML, and Quantum Computing
 
   - company: Nubank
-    role: Cloud Engineer | Platform Engineer | DevOps
+    role: Cloud Engineer | Platform Engineer | DevOps 🚀
     start_date: 2022-01
     end_date: 2025-01
     responsibilities:
@@ -76,7 +75,7 @@ experiences:
       - Reduced manual tasks by approximately 50%
 
   - company: Easynvest by Nubank
-    role: Intern | Cloud Engineer | DevOps
+    role: Intern | Cloud Engineer | DevOps 🌱
     start_date: 2020-09
     end_date: 2022-01
     responsibilities:
@@ -87,14 +86,15 @@ experiences:
 
 education:
   - institution: São Paulo Tech School (SPTech)
-    degree: Technologist in Systems Analysis and Development
+    degree: Technologist in Systems Analysis and Development 🎓
     field: Information Technology
     start_year: 2020
     end_year: 2021
 
   - institution: ETEC - Escola Técnica Estadual de São Paulo
-    degree: Technical Education
+    degree: Technical Education 🎓
     field: Information Technology
     start_year: 2018
     end_year: 2019
+
 ```
