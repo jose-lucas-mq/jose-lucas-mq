@@ -16,6 +16,7 @@ contacts:
 languages:
   - Portuguese: Native 🇧🇷
   - English: Professional 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
 skills:
   devops: ⚙️
     - Kubernetes
